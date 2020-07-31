@@ -1,5 +1,5 @@
 # Nodejs Expressjs MongoDB Ready-to-use Project Structure
-[![Author](Naren Krishna)] [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/b3eb80984adc4671988ffb22d6ad83df)](https://www.codacy.com/manual/maitraysuthar/rest-api-nodejs-mongodb?utm_source=github.com&utm_medium=referral&utm_content=maitraysuthar/rest-api-nodejs-mongodb&utm_campaign=Badge_Coverage) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3eb80984adc4671988ffb22d6ad83df)](https://www.codacy.com/manual/maitraysuthar/rest-api-nodejs-mongodb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=maitraysuthar/rest-api-nodejs-mongodb&amp;utm_campaign=Badge_Grade) ![Travis (.com)](https://img.shields.io/travis/com/maitraysuthar/rest-api-nodejs-mongodb)
+Author - Naren Krishna [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/b3eb80984adc4671988ffb22d6ad83df)](https://www.codacy.com/manual/maitraysuthar/rest-api-nodejs-mongodb?utm_source=github.com&utm_medium=referral&utm_content=maitraysuthar/rest-api-nodejs-mongodb&utm_campaign=Badge_Coverage) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3eb80984adc4671988ffb22d6ad83df)](https://www.codacy.com/manual/maitraysuthar/rest-api-nodejs-mongodb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=maitraysuthar/rest-api-nodejs-mongodb&amp;utm_campaign=Badge_Grade) ![Travis (.com)](https://img.shields.io/travis/com/maitraysuthar/rest-api-nodejs-mongodb)
 
 A ready-to-use boilerplate for REST API Development with Node.js, Express, and MongoDB
 
@@ -12,22 +12,11 @@ This is a basic API skeleton written in JavaScript ES2015. Very useful to buildi
 This project will run on **NodeJs** using **MongoDB** as database. I had tried to maintain the code structure easy as any beginner can also adopt the flow and start building an API. Project is open for suggestions, Bug reports and pull requests.
 
 
-## Features
+## Core 
 
--   Basic Authentication (Register/Login with hashed password)
--   Account confirmation with 4 (Changeable) digit OTP.
--   Email helper ready just import and use.
--   JWT Tokens, make requests with a token after login with `Authorization` header with value `Bearer yourToken` where `yourToken` will be returned in Login response.
--   Pre-defined response structures with proper status codes.
--   Included CORS.
--    **Book** example with **CRUD** operations.
--   Validations added.
--   Included API collection for Postman.
+-   Basic biloerplate code for todo APP
 -   Light-weight project.
--   Test cases with [Mocha](https://mochajs.org/) and [Chai](https://www.chaijs.com/).
--   Code coverage with [Istanbuljs (nyc)](https://istanbul.js.org/).
--   Included CI (Continuous Integration) with [Travis CI](https://travis-ci.org).
--   Linting with [Eslint](https://eslint.org/).
+
 
 ## Software Requirements
 
